@@ -1,0 +1,64 @@
+{
+  users : [{
+  "id": 1,
+  "first_name": "Raquela",
+  "last_name": "Markussen",
+  "money": "$464.64",
+  "phone": "(605) 6958909"
+}, {
+  "id": 2,
+  "first_name": "Fields",
+  "last_name": "Hepher",
+  "money": "$155.86",
+  "phone": "(597) 9968028"
+}, {
+  "id": 3,
+  "first_name": "Bran",
+  "last_name": "Edbrooke",
+  "money": "$366.17",
+  "phone": "(226) 8453559"
+}, {
+  "id": 4,
+  "first_name": "Casandra",
+  "last_name": "Wixon",
+  "money": "$216.43",
+  "phone": "(569) 9607736"
+}, {
+  "id": 5,
+  "first_name": "Beulah",
+  "last_name": "Crellin",
+  "money": "$78.87",
+  "phone": "(358) 5296121"
+}, {
+  "id": 6,
+  "first_name": "Alanson",
+  "last_name": "Jacobsohn",
+  "money": "$209.83",
+  "phone": "(915) 1258658"
+}, {
+  "id": 7,
+  "first_name": "Petra",
+  "last_name": "Rapkins",
+  "money": "$368.16",
+  "phone": "(976) 1047343"
+}, {
+  "id": 8,
+  "first_name": "Paxton",
+  "last_name": "Rohloff",
+  "money": "$100.75",
+  "phone": "(471) 5734918"
+}, {
+  "id": 9,
+  "first_name": "Bryanty",
+  "last_name": "Kingsbury",
+  "money": "$294.69",
+  "phone": "(162) 8229577"
+}, {
+  "id": 10,
+  "first_name": "Katti",
+  "last_name": "Bycraft",
+  "money": "$180.18",
+  "phone": "(887) 6453425"
+}]
+
+}
