@@ -1,64 +1,13 @@
 {
-  "users" : [{
-  "id": 1,
-  "first_name": "Raquela",
-  "last_name": "Markussen",
-  "money": "$464.64",
-  "phone": "(605) 6958909"
-}, {
-  "id": 2,
-  "first_name": "Fields",
-  "last_name": "Hepher",
-  "money": "$155.86",
-  "phone": "(597) 9968028"
-}, {
-  "id": 3,
-  "first_name": "Bran",
-  "last_name": "Edbrooke",
-  "money": "$366.17",
-  "phone": "(226) 8453559"
-}, {
-  "id": 4,
-  "first_name": "Casandra",
-  "last_name": "Wixon",
-  "money": "$216.43",
-  "phone": "(569) 9607736"
-}, {
-  "id": 5,
-  "first_name": "Beulah",
-  "last_name": "Crellin",
-  "money": "$78.87",
-  "phone": "(358) 5296121"
-}, {
-  "id": 6,
-  "first_name": "Alanson",
-  "last_name": "Jacobsohn",
-  "money": "$209.83",
-  "phone": "(915) 1258658"
-}, {
-  "id": 7,
-  "first_name": "Petra",
-  "last_name": "Rapkins",
-  "money": "$368.16",
-  "phone": "(976) 1047343"
-}, {
-  "id": 8,
-  "first_name": "Paxton",
-  "last_name": "Rohloff",
-  "money": "$100.75",
-  "phone": "(471) 5734918"
-}, {
-  "id": 9,
-  "first_name": "Bryanty",
-  "last_name": "Kingsbury",
-  "money": "$294.69",
-  "phone": "(162) 8229577"
-}, {
-  "id": 10,
-  "first_name": "Katti",
-  "last_name": "Bycraft",
-  "money": "$180.18",
-  "phone": "(887) 6453425"
-}]
+  "users" : [{"id":1,"first_name":"Brianna","last_name":"Hardson","money":"$140.44","phone":"(824) 2785852"},
+{"id":2,"first_name":"Gibb","last_name":"Wellstead","money":"$261.22","phone":"(223) 1440912"},
+{"id":3,"first_name":"Everard","last_name":"Spittall","money":"$406.60","phone":"(716) 2881467"},
+{"id":4,"first_name":"Neal","last_name":"Skehan","money":"$487.10","phone":"(951) 6373005"},
+{"id":5,"first_name":"Munmro","last_name":"Keling","money":"$304.67","phone":"(435) 1858891"},
+{"id":6,"first_name":"Isa","last_name":"Bargery","money":"$472.19","phone":"(216) 3770003"},
+{"id":7,"first_name":"Kariotta","last_name":"Pidgin","money":"$261.86","phone":"(192) 5429853"},
+{"id":8,"first_name":"Merci","last_name":"Bediss","money":"$135.64","phone":"(147) 7549702"},
+{"id":9,"first_name":"Araldo","last_name":"Thomsson","money":"$260.02","phone":"(389) 3678202"},
+{"id":10,"first_name":"Olimpia","last_name":"Askham","money":"$281.49","phone":"(725) 9824088"}]
 
 }
