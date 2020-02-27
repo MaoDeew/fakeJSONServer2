@@ -62,6 +62,27 @@
         "x" : -8251110.4631, 
         "y" : 509771.76799999923
       }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 29, 
+        "name" : "Petter Albert Marinez ALC-Z4", 
+        "status" : 2, 
+        "title" : null, 
+        "contactNumber" : null, 
+        "userId" : "EC22_EAB_SIGUE", 
+        "notes" : null, 
+        "GlobalID" : "d29fc453-eb2b-4c05-a1e5-9ee54ba78869", 
+        "CreationDate" : 1574087416160, 
+        "Creator" : "EMADERA_EAB_SIGUE", 
+        "EditDate" : 1577474108936, 
+        "Editor" : "EC22_EAB_SIGUE"
+      }, 
+      "geometry" : 
+      {
+        "x" : -8251089.947, 
+        "y" : 509779.76399999857
+      }
     }
   ]
 }
