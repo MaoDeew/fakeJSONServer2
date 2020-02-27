@@ -1,4 +1,8 @@
-{
+{  
+  "spatialReference" : {
+    "wkid" : 4326, 
+    "latestWkid" : 4326
+  },
   "features" : [
     {
       "attributes" : {
@@ -84,11 +88,6 @@
         "y" : 509779.76399999857
       }
     }
-  ], 
-  "geometryType" : "esriGeometryPoint", 
-  "spatialReference" : {
-    "wkid" : 4326, 
-    "latestWkid" : 4326
-  }
+  ]
 }
 
