@@ -1,5 +1,4 @@
 {
-  "objectIdFieldName" : "OBJECTID",
   "features" : [
     {
       "attributes" : {
@@ -85,6 +84,7 @@
         "y" : 509779.76399999857
       }
     }
-  ]
+  ],
+  "objectIdFieldName" : "OBJECTID"
 }
 
