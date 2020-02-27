@@ -1,4 +1,5 @@
 {
+  "objectIdFieldName" : "OBJECTID",
   "features" : [
     {
       "attributes" : {
