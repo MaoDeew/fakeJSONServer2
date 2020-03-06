@@ -1,92 +1,26 @@
+
 {
-  "spatialReference" : {
-    "wkid" : 4326, 
-    "latestWkid" : 4326
-  }, 
-  "features" : [
-    {
-      "attributes" : {
-        "OBJECTID" : 1, 
-        "name" : "Juan Fernando Catañeda ALC-Z4", 
-        "status" : 1, 
-        "title" : "Q-78", 
-        "contactNumber" : null, 
-        "userId" : "Q78_Z4_EAB_SIGUE", 
-        "notes" : null, 
-        "GlobalID" : "f2450188-8f10-444e-9c12-ec655adf14f0", 
-        "CreationDate" : 1544791096991, 
-        "Creator" : "EMADERA_EAB_SIGUE", 
-        "EditDate" : 1581001690771, 
-        "Editor" : "Q78_Z4_EAB_SIGUE"
-      }, 
-      "geometry" : 
-      {
-        "x" : -75.527697, 
-        "y" : 6.190854
-      }
-    }, 
-    {
-      "attributes" : {
-        "OBJECTID" : 5, 
-        "name" : "Jairo Acosta ALC-Z4", 
-        "status" : 1, 
-        "title" : "Q-148", 
-        "contactNumber" : null, 
-        "userId" : "Q148_Z4_EAB_SIGUE", 
-        "notes" : null, 
-        "GlobalID" : "6fbf8eb4-d90e-43a7-8c3a-bd401606de5a", 
-        "CreationDate" : 1544791253158, 
-        "Creator" : "EMADERA_EAB_SIGUE", 
-        "EditDate" : 1580916042988, 
-        "Editor" : "Q148_Z4_EAB_SIGUE"
-      }, 
-      "geometry" : 
-      {
-        "x" : -74.144968, 
-        "y" : 4.699274
-      }
-    }, 
-    {
-      "attributes" : {
-        "OBJECTID" : 6, 
-        "name" : "Pedro Ramirez ALC-Z4 A ALC-Z4", 
-        "status" : 1, 
-        "title" : "Q-142", 
-        "contactNumber" : null, 
-        "userId" : "Q142_Z4_EAB_SIGUE", 
-        "notes" : null, 
-        "GlobalID" : "81ff4b07-9912-4a8e-9a47-bdc405bfa9b1", 
-        "CreationDate" : 1544791253158, 
-        "Creator" : "EMADERA_EAB_SIGUE", 
-        "EditDate" : 1577109038671, 
-        "Editor" : "Q142_Z4_EAB_SIGUE"
-      }, 
-      "geometry" : 
-      {
-        "x" : -74.077598, 
-        "y" : 4.646990
-      }
-    }, 
-    {
-      "attributes" : {
-        "OBJECTID" : 29, 
-        "name" : "Petter Albert Marinez ALC-Z4", 
-        "status" : 2, 
-        "title" : null, 
-        "contactNumber" : null, 
-        "userId" : "EC22_EAB_SIGUE", 
-        "notes" : null, 
-        "GlobalID" : "d29fc453-eb2b-4c05-a1e5-9ee54ba78869", 
-        "CreationDate" : 1574087416160, 
-        "Creator" : "EMADERA_EAB_SIGUE", 
-        "EditDate" : 1577474108936, 
-        "Editor" : "EC22_EAB_SIGUE"
-      }, 
-      "geometry" : 
-      {
-        "x" : -74.076035, 
-        "y" : 4.598034
-      }
-    }
-  ]
+ "results": [
+  {
+   "paramName": "Success",
+   "dataType": "GPBoolean",
+   "value": false
+  },
+  {
+   "paramName": "Error",
+   "dataType": "GPString",
+   "value": "apiKey Invalid"
+  },
+  {
+   "paramName": "globalId",
+   "dataType": "GPString",
+   "value": ""
+  },
+  {
+   "paramName": "objectId",
+   "dataType": "GPString",
+   "value": ""
+  }
+ ],
+ "messages": []
 }
